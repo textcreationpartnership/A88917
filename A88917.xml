@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumph stain'd. Being an answer to Truths triumph, i.e. a pamphlet so called, and lately set forth by Mr. John Wildman, a pretended gentleman of the life-guard to his Excellency Sir Tho: Fairfax. With a full and perfect account of an information of dangerous and bloody consequence, given in to the House of Lords (at their bar) January the 18. 1647. against Lieut. Col. Iohn Lilburn and John Wildman. / By George Masterson, preacher of the Gospel at Shoreditch near London.</title>
+            <author>Masterson, Geo. (George)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88917</idno>
+            <idno type="STC">Wing M1074</idno>
+            <idno type="STC">Thomason E426_18</idno>
+            <idno type="STC">ESTC R202890</idno>
+            <idno type="EEBO-CITATION">99863028</idno>
+            <idno type="PROQUEST">99863028</idno>
+            <idno type="VID">161452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161452)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E426[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumph stain'd. Being an answer to Truths triumph, i.e. a pamphlet so called, and lately set forth by Mr. John Wildman, a pretended gentleman of the life-guard to his Excellency Sir Tho: Fairfax. With a full and perfect account of an information of dangerous and bloody consequence, given in to the House of Lords (at their bar) January the 18. 1647. against Lieut. Col. Iohn Lilburn and John Wildman. / By George Masterson, preacher of the Gospel at Shoreditch near London.</title>
+                  <author>Masterson, Geo. (George)</author>
+               </titleStmt>
+               <extent>26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Wildman, John.  Truths triumph.</note>
+                  <note>With a final imprimatur leaf.</note>
+                  <note>Annotation on Thomason copy: "Feb: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wildman, John, --  Sir, 1621?-1693. --  Truths triumph --  Early works to 1800.</term>
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161452:1" rendition="simple:additions"/>
+            <p>The Triumph ſtain'd.</p>
+            <p>Being an ANSWER to <hi>TR<g ref="char:V">Ʋ</g>THS TRI<g ref="char:V">Ʋ</g>MPH, i. e.</hi> a Pamphlet ſo called, and lately ſet forth By Mr. <hi>John Wildman,</hi> a pretended Gentleman of the Life-guard to his Excellency Sir <hi>Tho: Fairfax.</hi>
+            </p>
+            <p>WITH A full and perfect Account of an INFORMATION OF Dangerous and bloody conſequence, given in to the Houſe of Lords (at their Bar) <hi>January</hi> the 18. 1647. againſt Lieut. Col. <hi>Iohn Lilburn</hi> and <hi>John Wildman.</hi>
+            </p>
+            <p>By <hi>George Maſterſon,</hi> Preacher of the Goſpel at <hi>Shoreditch</hi> near <hi>London.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 4.5.</hi>
+               </bibl>
+               <p>Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkneſs, and will make ma<g ref="char:EOLhyphen"/>nifeſt the counſels of the hearts: and then ſhall every man have praiſe of God.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by JOHN FIELD. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161452:2"/>
+            <pb n="3" facs="tcp:161452:2"/>
+            <head>The Triumph ſtain'd.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Ruth is an high born Princeſs, ſhe is eldeſt daughter of Heaven, of blood with the Son of God made man; the natural beauty that ſhe wears, ſhewes of what houſe ſhe comes; the bright rays that ſhine in her face, lead captive every ſoul that hath eyes to behold her: There are very few (ſons of utter dark<g ref="char:EOLhyphen"/>neſs) that reſiſt Truth as Truth, or lift up the heel againſt her for her own ſake: Such is the majeſty of Truth, that every knee bows down to her apprehended Chair of State; ſuch is her birth, and beauty, and credit, that every man deſires to have her image and ſuperſcription ſtamped upon his opinion and pra<g ref="char:EOLhyphen"/>ctiſe, and thus it comes to paſs (more then ſometimes) that the Painters miſtreſs is adored inſtead of the Goddeſs: and as many times it is ſeen, that Columns and Statues erected to Truth, do hold forth nothing more then the great names of men that rear<g ref="char:EOLhyphen"/>ed them in golden letters, <hi>D. VAE VERITATI. D. D.C. Q.A.B.</hi> Thus in the Jouſts and Tiltings dedicated to the honor of Truth, the ſplinters of a broken lance contribute more to the credit of the Champions proweſs, then the honor of the Lady. And thus in the Triumphs of Truth (ſo called) we ſee a man (like unto our ſelves in all things) drawn in a Triumphant Chariot.</p>
+            <p>It was but the other day that I beheld a mortal man (as if he had found the Breaſt plate of <hi>Aaron</hi>) hurried in a Triumphant paper Chariot about the Royal Exchange: The Chariot was dedicated to the Suns daughter, To fair Truth; and it carried this mark in the forehead of it, <hi>Truths Triumph.</hi> I honor the Virgin ſo far, that I cannot but ſend this cordial Exclamation (after her Chariot) <hi>Vivat Regina,</hi> long live fair Truth! Yea, though her furious Charioter ſhould drive his wheels over all that I have Senſual and Mortal, the laſt breathing of my ſoul ſhould contribute to her Triumph a <hi>vivat illa!</hi>
+            </p>
+            <q>
+               <pb n="4" facs="tcp:161452:3"/>
+               <l>Ride on fair Truth; the wheels are ſlow</l>
+               <l>On which thy Chariot moves below:</l>
+               <l>Go mount thy Fathers Car, and mix</l>
+               <l>Thy purer rays with his; there fix,</l>
+               <l>Till thou thy courſe in light haſt run,</l>
+               <l>Circling the world as doth the Sun.</l>
+               <l>Thus by her Father bright Sol's ſide,</l>
+               <l>Let mighty Truth Triumphant ride.</l>
+            </q>
+            <p>But truly when the heat of the wheels is a little over, and Truth comes to caſt up her account, what ſhe hath gained or ſa<g ref="char:EOLhyphen"/>ved in the Gentlemans intended Triumph, I believe ſhe will tel her Friends with tears in her eyes, that ſhe never bluſhed more in any day of Triumph, never did ſhe ride ſo hooded and masked in a Triumphant Chariot before that day.</p>
+            <p>You (O my friends) that have ſeen my riding (will ſhe ſay) in the days of my true Triumphs, my Chariot open, my face, and breaſt, and hands naked, my feet and legs, and thighs bare, did not you wonder at ſuch a winter dreſs, as I appeared in that day? did not you admire to ſee me in my furs and ſaples? Truly, I thought (however the Gentlemans intentions were for a Tri<g ref="char:EOLhyphen"/>umph) that I ſcarce ſtood above the proportion of one doing penance in his ſheets.</p>
+            <p>But, Gentlemen, if you will not go to the price of it as <hi>Truths Triumph,</hi> you ſhall have it (rather then ſtand out) at the lower rate of <hi>Treachery Anatomized;</hi> and thus if it do not make a good God, yet it may paſs for a pretty tolerable Devil.</p>
+            <p>
+               <hi>Truths Triumph,</hi> or <hi>Treachery Anatomized:</hi> See, Gentlemen, what a Triumph of Truth you are like to have, when ſhe comes mounted upon an Anatomy; I have ſcarce ſeen a private Soldier beſtride ſuch bare bones. The meaneſt <hi>Error</hi> that beats upon the hoof, triumphs in a better equipage then this Gentlemans Truth does. And truly, not onely her palfrey (the forementioned lean thing) but her clothes too (ſuch a riding ſuit) would induce us to judge and believe, That the Gentlemans Truth were rather taking a long Winter journey, then ſetting forth in triumph: And let me tell the Citizens of this Renowned City, That if this Skeleton be allowed to paſs for a Triumph, every Countrey Car<g ref="char:EOLhyphen"/>rier, and (all the dirt they bring along with them) will from the
+<pb n="5" facs="tcp:161452:3"/>
+date of this ride triumphantly through your City. I wonder in the lap of what remote Star this Triumph was concealed, that our Engliſh <hi>Merlin</hi> gave us no intelligence of it, that we might have been prepared to entertain it at a rate ſuitable to it.</p>
+            <p>This Triumph, as we may with no great difficulty collect from pag. 10. ſets forth from the Fleet (and ſo you muſt ſuppoſe it is a Naval Triumph, it hath indeed its waſte clothes on, and it wants nothing but Pendants and Streamers; nor would it have wanted them, had the <hi>Deſign</hi> ſhattered the Lords Houſe: The Legiſla<g ref="char:EOLhyphen"/>tive Power raviſhed out of the hands of the Lords would have been a fine gay indeed to have adorned <hi>Truths Triumph</hi>) But the Gentleman had conſulted better for the credit of his Truth, had he dated his Triumph from Sea, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Yet (whatever is pretended) let me tell you, That this Triumph ſets out at <hi>Billinſgate,</hi> or (from what Fleet ſoever it comes) it lands at thoſe Stairs; and you will tell me ſo too, when you hear the Rhetorick and Dialect of that end of the Town. A blaſt of right <hi>Billinſgate</hi> (in ſtead of Trumpets) uſhers in the Triumph, <hi>A Diſcovery</hi> (we ſhall meet with im<g ref="char:EOLhyphen"/>partial anon) <hi>of the falſe and treacherous Information of Mr.</hi> Maſterſon, <hi>pretended Miniſter of Chriſt at Shoreditch, againſt, &amp;c.</hi>
+            </p>
+            <p>The truth or falſhood of the Information the day ſhall de<g ref="char:EOLhyphen"/>clare, and ſhall make it manifeſt whether it be gold or wood, ſilver or hay, precious ſtones or ſtubble; and I am extremely confident, that the blemiſhed Information is of ſuch a kinde, as will endure the touch of the fire: In the mean time (before the day of revelation by fire cometh) I ſhall endeavor to make it appear to all rational men, of what ſort the (forementioned) Information is.</p>
+            <p>Not treacherous (as the Gentlemans Triumph or Anatomy affirms) nor made by <hi>a pretended Miniſter of Chriſt at</hi> Shore<g ref="char:EOLhyphen"/>ditch. Treachery (I mean that which is really ſo) is (in every ſence) the abomination of my ſoul: and (though the odium of <hi>Perſecuter of the Saints,</hi> and <hi>Betrayer of the Brethren,</hi> hath been caſt upon me, ſince I made way at the Lords Bar; for the fire which impriſoned in my boſom, would have confirmed me to aſhes; yet) I dare tell the world, that I have not ſuffered a perſecuting thought (no not ſince that great provocation which
+<pb n="6" facs="tcp:161452:4"/>
+I met with, near the Houſe of Commons door) to go to bed or lie down with me.</p>
+            <p>I have been learning Chriſtian forbearance, and ſtudying to practice it no ſmall ſpace of time; and whileſt I was in purſuit of it for my private uſe, it pleaſed God to diſcover ſo much beauty in the face of it to me, that I endeavored (at leaſt) to pro<g ref="char:EOLhyphen"/>voke others to the practiſe of it; and I went ſo far in preſſing the duty, that not a few thought I humbled the duty too low; though (I muſt profeſs withal) that it never entred into the thought of my heart, to proſtitute this virgin to the wilde and hairy luſt of a Catholique Toleration. The light that I then walk<g ref="char:EOLhyphen"/>ed by (and ſtill follow) was held out to me by the hand of <hi>Paul, Ephe.</hi> 4.12. and in that light I clearly ſaw this truth, That they do not (cannot) walk worthy of the vocation where<g ref="char:EOLhyphen"/>with they are called, that do not endeavor to forbear one ano<g ref="char:EOLhyphen"/>ther in love: yet (though I found the courteous duty of Chriſtian forbearance ready and willing to walk with us this mile) I durſt not rudely (by laying violent hands upon her) conſtrain her to travel her ſelf out of breath, or beyond her bounds.</p>
+            <p>If it be ſuppoſed (and upon what other account the Gentle<g ref="char:EOLhyphen"/>man baptizeth my Information with the name of Treacherous, I know not) that I, who have not been obſerved to tread in the path of theſe men, or ſtand in their way, muſt needs walk upon <hi>treacherous feet</hi> to a meeting of ſuch ſeveral honeſt men (as the <hi>Anatomizer</hi> calls them) or elſe what made I there? I an<g ref="char:EOLhyphen"/>ſwer, The more ſeriouſly I have thought of it, the more I have ſeen Providence in it. The wheel that moved me towards the meeting in <hi>Well-yard</hi> at that time (though what ſpirit acted in that wheel, I have not yet clearly diſcovered) was this, Mr. <hi>Malbon</hi> (of my Pariſh) having formerly preſented me with a ſight of the large Petition (though I ſuppoſe the countenance that I afforded him in it, could not amount to the reſemblance of the leaſt approbation) did further, in reference to that Pe<g ref="char:EOLhyphen"/>tition, ſolicite me on Monday the ſeventeenth of <hi>January,</hi> to go along with him in the evening of that day, to the houſe of one Mr. <hi>Williams</hi> (a Gardiner) in <hi>Well-yard,</hi> to hear and judge of ſuch objections and ſatisfaction as ſhould be then brought <hi>con</hi> and <hi>pro,</hi> the (forenamed) Petition.</p>
+            <p>
+               <pb n="7" facs="tcp:161452:4"/>I withſtood his firſt ſolicitation upon this ground, It hath been my practice upon the ſecond day of the week (commonly called Monday) to meet at my houſe with ſome of my Pariſh that look toward Sion, endeavoring to ſupport and ſtrengthen the ſpirits of one another in the way thither; and I told him, that I could not handſomly diſappoint them upon ſuch an oc<g ref="char:EOLhyphen"/>caſion.</p>
+            <p>Whether the honor of the man (that hath faithfully ſerved this Parliament in the capacity of a Lieutenant of Foot) would not brook a retreat, I know not; but (as if he were reſolved to carry my affections, or ſacrifice his ingenuity to the Service) he ſtormed me with a volley of importunities; and upon this quar<g ref="char:EOLhyphen"/>ter I ſurrendred, That he ſhould inform our friends (that were near him) that a buſineſs of more publique concernment (as he then phraſed it) had taken place of our private (wonted) im<g ref="char:EOLhyphen"/>ployment, and that he would call upon me to go along with him at the time appointed. Now let Mr. <hi>Wildman (or any ſo<g ref="char:EOLhyphen"/>ber minded man)</hi> put his skill upon the tenters, and ſee if he can ſpell Treachery (without Anagrammatiſm) in this approach of mine to the counſels of theſe men: This, underſtood Mr. <hi>Maſterſon,</hi> believes a Counſel of War would acquit him of treachery in his <hi>intentions</hi> to theſe men.</p>
+            <p>I ſhall open but one basket more of <hi>Billinſgate</hi> Commodi<g ref="char:EOLhyphen"/>ties (<hi>Pretended Miniſter of Chriſt at</hi> Shoreditch) before I preſent you with the <hi>Melons</hi> and <hi>Cucumbers</hi> that this Garden-meeting brought forth.</p>
+            <p>I have great cauſe to bleſs the Lord of the Vineyard, that he hath vouchſafed to own and make uſe of ſo weak and unwor<g ref="char:EOLhyphen"/>thy a laborer as I am; and I rejoyce, yea and will rejoyce more abundantly, that the great God hath accepted his poor ſervant, though but to the gathering out the ſtones, and weeding out the nettles that I found ſpread over the face of this Congregation, when he called me to it. I am not acquainted with the faces of many Congregations in or about this City; I know not the beauty or blemiſhes that is upon them: but this I know, that it is the grief &amp; ſorrow of my ſoul, to ſee the Congregation to which I relate, ſo pale and wan, to diſcover ſuch ſpots upon it, ſuch darknes, ſuch profaneneſs, ſuch ſuperſtition: yet when I have poured out
+<pb n="8" facs="tcp:161452:5"/>
+my complaint into the boſoms of ſome friends, that may (with<g ref="char:EOLhyphen"/>out one grain of allowance) be judged faithful, that I have la<g ref="char:EOLhyphen"/>bored and do labor in vain, I have ſpent my ſtrength for nought and in vain; they have adminiſtred words of comfort and ſup<g ref="char:EOLhyphen"/>port to me, when they have told me (<hi>I am a fool to publiſh it,</hi> but bear with me) that I, even I have ſome Epiſtles of com<g ref="char:EOLhyphen"/>mendation to God and the Saints, not written with ink, but with the Spirit of the living God, not in tables of ſtone, but in fleſhy tables of the heart: And that I have been anointed with ſuch a ſufficiency from God (as they have called my weakneſs) as might intitle me to ſomething more then <hi>A pretended Mini<g ref="char:EOLhyphen"/>ſter of Chriſt at Shoreditch.</hi> And thus having the teſtimony of mine own Conſcience in point of deſires really to ſerve God and men in the Goſpel of our Lord Jeſus, and the ſubſcriptions of ſome faithful ones in point of endeavors, I ſhall attempt next to let this City ſee, That I was more then <hi>A pretended Miniſter</hi> or Servant to the State and them, in this enſuing Diſcovery made to the Lords and Commons on <hi>January</hi> 18. of certain Speeches and Practices of dangerous conſequence (as I then apprehended, and yet believe) to the whole Kingdom.</p>
+            <p>This diſcovery having been given in writing to the Honora<g ref="char:EOLhyphen"/>ble Committee of Lords and Commons at <hi>Derby houſe,</hi> by Or<g ref="char:EOLhyphen"/>der from that Committe, of the twentieth of <hi>January,</hi> I ſhall be ſo far from taking that liberty (which Mr. <hi>Wildman</hi> makes bold with in his <hi>True Narrative,</hi> as he calls it) of preſenting you with more or leſs then that Paper contains, that I ſhall not ſo much as put a comb into the hair of the Relation, but give it you ruffled as it dropp'd from the tongues of thoſe men.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="account">
+                        <pb n="9" facs="tcp:161452:5"/>
+                        <head>At a Meeting in <hi>VVell-yard</hi> in (or neer) <hi>VVapping,</hi> at the houſe of one Mr. <hi>VVilliams</hi> a Gardiner, on Monday the <hi>17</hi> of <hi>Ianuary, 1647.</hi>
+                        </head>
+                        <p>THere were aſſembled Lieutenant Colonel <hi>John Lilburn, John Wildman</hi> (with many others) debating a Petition when I and one <hi>Robert Malbon</hi> of <hi>Shoreditch</hi> Pariſh came in: Anon af<g ref="char:EOLhyphen"/>ter we were entred the room, one Lieutenant <hi>Levet</hi> objected againſt the maner of their Proceedings, and ſaid, That he liked well enough the particulars of the Petition, but he did not like the maner, namely, of Petitioning the houſe of Commons, <hi>For</hi> (ſaid he) <hi>they have never done us any right, nor will they ever do us any:</hi> To this Leiutenant Colonel <hi>John Lilburn</hi> an<g ref="char:EOLhyphen"/>ſwered, We muſt (ſaid he) own ſome viſible Autho<g ref="char:EOLhyphen"/>rity for the preſent, or elſe we ſhall be brought to ruine and confuſion, but when we have raiſed up the ſpirits of the people through the whole Kingdom (whether it be nine days hence, or a Moneth, or three Moneths, when the Houſe ſhall be fit to receive an <hi>Impreſsion of Juſtice</hi>) we ſhall force them to grant us thoſe things which we deſire.</p>
+                        <p>Lieutenant Colonel <hi>John Lilburn</hi> did then and there affirm, That the people of <hi>London</hi> had appointed ten or twelve of them Commiſsioners (whereof he the ſaid <hi>Lilburn</hi> was one) though he ſaid likewiſe,
+<pb n="10" facs="tcp:161452:6"/>
+that the honeſt blades in <hi>Southwark</hi> did not like the word <hi>Commiſsioners.</hi> Theſe Commiſſioners were ap<g ref="char:EOLhyphen"/>pointed to promote the Petition, and apppoint, and ſend out Agents into every City, Town and Pariſh (if they could poſſibly) of every County of the King<g ref="char:EOLhyphen"/>dom, to inform the people of their Liberties and Pri<g ref="char:EOLhyphen"/>viledges, and not onely to get their hands to the Pe<g ref="char:EOLhyphen"/>tition, <hi>For</hi> (ſaid he) <hi>I would not give Three pence for Ten thouſand hands.</hi>
+                        </p>
+                        <p>A plain man of the Company objected againſt that way of Proceeding, thus, <hi>Mr.</hi> Lilburn (ſaid he) <hi>We know that the generality of the people are wicked; and if (by the ſending abroad of your Agents into all the Pariſhes of the Kingdom) they come to have power and ſtrength in their hand, we may ſuppoſe and fear, that they will cut the throats of all thoſe that are called Roundheads, that is, the honeſt, godly, faithful men in the Land.</hi> Lieutenant Co<g ref="char:EOLhyphen"/>lonel <hi>Lilburn</hi> anſwered, Piſh (ſaid he) do not you fear that; he that hath this Petition in his hand, and a blue Ribband in his Hat, need not fear his throat cut<g ref="char:EOLhyphen"/>ting: Or, this Petition in your hand, will be as good as a blue Ribband in your Hat, to preſerve your throat from cutting.</p>
+                        <p>It was further objected by one of the company that ſate at (or near) the upper end of the Table, That <hi>it was not fit to diſturb</hi> (or to that purpoſe) <hi>the Houſe at this time, ſeeing they had made ſuch excellent Votes con<g ref="char:EOLhyphen"/>cerning the King, and had appointed a Committee to hear and report all our Grievances.</hi> Lieut. Colonel <hi>Lilburn</hi> anſwered, Do you know (ſaid he) how thoſe Votes were procured? (or words to that effect) Some an<g ref="char:EOLhyphen"/>ſwered, <hi>No; nor did they care, ſince the Votes (as they apprehended) were ſo excellent.</hi> Lieut. Colonel <hi>Lilburn,</hi>
+                           <pb n="11" facs="tcp:161452:6"/>
+ſaid he would inform them; There was (ſaid he) a Bargain ſtruck betwixt <hi>Cromwel, Ireton,</hi> and the King: and the Bargain was this, They (namely, Lieutenant General <hi>Cromwel,</hi> and Commiſſary General <hi>Ireton</hi>) by their influence on the Army, ſhould eſtate the King in His Throne, Power and Authority; and for their re<g ref="char:EOLhyphen"/>ward, <hi>Cromwel</hi> ſhould receive (or had received) a blue Ribband from the King, and be made Earl of <hi>Eſſex,</hi> and his Son <hi>Ireton</hi> either Lord Lieutenant, or Field-Marſhal of <hi>Ireland:</hi> And this he (the ſaid Lieut. Co<g ref="char:EOLhyphen"/>lonel <hi>Lilburn</hi>) ſaid he would make good to all the world.</p>
+                        <p>Lieut. Colonel <hi>Lilburn</hi> ſaid further, That certain Information of this coming to a Member of the Houſe of Commons, our good (or beſt) friend, I need not name him (ſaid he) I ſuppoſe you all know him, his Father was a Parliament man, and a Knight, but he is dead, and this Gentleman his Son is of his Chri<g ref="char:EOLhyphen"/>ſtian name (as they call it) a man of a good Eſtate; This Gentleman (ſaid he) takes upon him a noble <hi>Fel<g ref="char:EOLhyphen"/>ton</hi> reſolution, That (rather then a Kingdom ſhould be enſlaved to the luſt of one man) he would diſpatch him (namely, <hi>Cromwel</hi>) where ever he met him, though in the preſence of the General Sir <hi>Tho: Fairfax</hi> himſelf; and to that end provided and charged a Piſtol, and took a Dagger in his pocket, that if one did not, the other ſhould diſpatch him.</p>
+                        <p>The ſaid Lieut. Colonel <hi>John Lilburn</hi> (being asked how it came to paſs that he did not effect it, and act according to his reſolution?) anſwered, The Gentle<g ref="char:EOLhyphen"/>man (ſaid he) communicating his reſolution to a Mem<g ref="char:EOLhyphen"/>ber of the Houſe of Commons, a Knight, whom he judged faithful; the Gentleman was by this Knight
+<pb n="12" facs="tcp:161452:7"/>
+ſhut up in his chamber in <hi>Whitehall</hi> a whole day, and the Knight diſpatched an Expreſs to <hi>Cromwel,</hi> to in<g ref="char:EOLhyphen"/>form him of the Gentlemans reſolution: whereupon <hi>Cromwel</hi> (apprehending his perſon in danger) called a pretended day of Humiliation; there he was recon<g ref="char:EOLhyphen"/>ciled to the Officers of the Army, drew up a Decla<g ref="char:EOLhyphen"/>ration to the Houſe, which begat and produced thoſe Votes.</p>
+                        <p>Upon this <hi>John Wildman</hi> ſaid, that he knew three other men that (at the ſame time) had taken up the ſame reſolution of killing <hi>Cromwel,</hi> and there was not one of them that knew the intentions of another. Like<g ref="char:EOLhyphen"/>wiſe the ſaid <hi>John Wildman</hi> ſaid, That he would never truſt honeſt man again for <hi>Cromwels</hi> ſake.</p>
+                        <p>Lieut. Colonel <hi>Lilburn</hi> and the ſaid <hi>John Wildman</hi> (ſpeaking promiſcuouſly in the commendation of the ſaid Petition) one or other, or both of them, affirmed, That this Petition was of more worth and value then any thing they had ever yet attempted; and ſome great Malignants (as they are called) told them, That if they were not engaged to the perſon of this King, and had perſonally ſerved Him, they would engage with them; and the ſaid Malignants gave them en<g ref="char:EOLhyphen"/>couragement to go on with it, ſaying, <hi>It was the moſt rational piece that they had ſeen.</hi> And that they (the people aſſembled) might underſtand how the Petition had wrought already, they affirmed, That it (the Pe<g ref="char:EOLhyphen"/>tition) had made the Lords Houſe to quake, and the Commons themſelves to ſtink; and that before the Petition was two days old, or had been two days abroad, the Lords (I ſhall not need to name them, ſaid he, but the greateſt Earls of them in Eſtate, in Authority and Popularity) ſent to us a Creature of
+<pb n="13" facs="tcp:161452:7"/>
+their own to Article with us, and offered (ſo we would deſiſt from promoting the Petition) to conſent to all our Priviledges and Liberties that we deſired in our Petition, ſo that we would abate them their Legiſla<g ref="char:EOLhyphen"/>tive Power.</p>
+                        <p>Lieut. Colonel <hi>Lilburn</hi> ſaid further, When they ſaw we would not deſiſt, they (the Lords) offered us Thirty thouſand pounds, if we would yet ſit down, and lay the Petition aſide: Nay more, ſaid he (but here the ſaid <hi>John Wildman</hi> interrupted him, and ſaid, Prithee do not tell all; but <hi>Lilburn</hi> replyed, He would, and they ſhould hereby ſee their (the Lords) baſeneſs) whereupon going on, he ſaid, This morn<g ref="char:EOLhyphen"/>ing they ſent to this Gentlemans chamber (laying his hand upon <hi>Wildman</hi>) at the Sarazens-head in Friday-ſtreet, and offered him, That if we would forbear to promote this Petition, they would be content for their Heirs and Succeſſors to cut off the Legiſlative power from them by Ordinance or Act for ever, ſo we would let them quietly enjoy the Legiſlative power for their lives.</p>
+                        <p>Lieut. Colonel <hi>Lilburn</hi> told them, That they (the Commiſſioners) had their conſtant meetings on Mon<g ref="char:EOLhyphen"/>days, Wedneſdays and Fridays in the evening at the Whalebone, and the other three days at <hi>Southwark, Wapping,</hi> and other places with their Friends; and that upon the next Lords day they were to meet at <hi>Dartford</hi> in <hi>Kent,</hi> to receive an account of their Agents (from <hi>Graveſend, Maidſtone,</hi> and moſt of the choyce Towns in that County) how they had promoted the buſineſs there.</p>
+                        <p>Lieut. Colonel <hi>Lilburn</hi> drawing a paper book from under his ſhort red Coat, and turning over the leaves
+<pb n="14" facs="tcp:161452:8"/>
+of it, told them that there were certain Letters, one to Colonel <hi>Blunt,</hi> another (as I remember) to Sir <hi>An<g ref="char:EOLhyphen"/>thony Welden,</hi> and that, he ſaid, he wrote himſelf; likewiſe divers Letters to our Friends the well affect<g ref="char:EOLhyphen"/>ed of ſuch and ſuch a County; whoſe Names I re<g ref="char:EOLhyphen"/>membred not: He (the ſaid Lieut. Colonel) told them likewiſe, That becauſe the buſineſs muſt needs be a work of charge (there being Three thouſand Pe<g ref="char:EOLhyphen"/>titions to come forth in print to morrow, and it would coſt money to ſend their Agents abroad, though the honeſt Soldiers now at <hi>Whitehall</hi> would ſave them ſomething, in ſcattering them up and down in the Counties) they had therefore appointed Treaſurers, namely, Mr. <hi>Prince,</hi> Mr. <hi>Chidley,</hi> and others; and Collectors (whoſe Names, as I remember, he did not read) who ſhould gather up from thoſe that acted with them, of ſome Two pence, Three pence, Six pence, One ſhilling, Two ſhillings, Half a crown a week. And thus promiſing to meet them the next night, he took leave.</p>
+                        <p>But immediately before his departure, told them, That they ſhut him up in the Tower the night be<g ref="char:EOLhyphen"/>fore, but they ſhould not have his company theſe four<g ref="char:EOLhyphen"/>teen nights for it.</p>
+                        <p>This is the ſum and ſence of that which was affirm<g ref="char:EOLhyphen"/>ed and related in the Houſe of Lords at the Con<g ref="char:EOLhyphen"/>ference, and in the Commons Houſe, by</p>
+                        <closer>
+                           <signed>Geo: Maſterſon.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="15" facs="tcp:161452:8"/>THus you have an account (to a ſyllable) of that <hi>Information</hi> (if the diſcovery of a <hi>Deſign</hi> ſo deſtructive (in its tenden<g ref="char:EOLhyphen"/>cies, to ſpeak modeſtly) have merited no higher Title, which was given in (under my hand) to the Honorable Committee of Lords and Commons at <hi>Derby</hi> Houſe. And now my expecta<g ref="char:EOLhyphen"/>tions and deſires are, to ſtand or fall in the thoughts of all god<g ref="char:EOLhyphen"/>ly <hi>
+                  <g ref="char:V">Ʋ</g>nintereſted</hi> Engliſh men, as I ſhall make good every par<g ref="char:EOLhyphen"/>ticular in this <hi>Charge,</hi> in the day when the <hi>Pretended</hi> Miniſter ſhall be called to produce his <hi>Pretended</hi> Witneſſes: In the mean time, I ſhall caſt away a few glances of mine eye upon Maſter <hi>Wildmans Impartial Relation</hi> (as the <hi>Curate</hi> of <hi>Windham, alias</hi> the Pretended Gentleman of the Life-guard baptizeth it).</p>
+            <p>He begins his Relation with a ſentence (if duſt and cobwebs be tolerable Arguments of Antiquity) much elder then the <hi>Deſign</hi> of <hi>Levelling.</hi> The medly Moth-eaten ſentence runs thus (and it is the firſt line of his Pamphlet) <hi>In this generation, Dicere quod no<g ref="char:EOLhyphen"/>lo miſerum, quod volo &amp; debeo periculoſum:</hi> I am very ſorry that ever any man ſhould write at ſo low a rate in <hi>Roman</hi> hand; ſure the Gent. hath a Deſign to make the world believe indeed, <hi>that Latine is the language of the Beaſt:</hi> the beſt Engliſh that I can make of this Leading ſentence, is <hi>Tantamount,</hi> thus much, <hi>It is a miſera<g ref="char:EOLhyphen"/>ble thing in this Generation for a man to ſpeak that which he would not; and it is a dangerous thing</hi> (you muſt underſtand in the foreſaid <hi>Generation) to ſpeak what a man would and ought to ſpeak:</hi> Bate me but <hi>O tempora ô mores;</hi> and if you gather ſuch another Cinamon Roſe in <hi>Tullies</hi> garden, I am extreamly miſtaken in my Calculati<g ref="char:EOLhyphen"/>on. This whole Paragraph (I dare ſay) calls him Father that wrote the firſt line of it;<note place="margin">Splen ridere facit.</note> and if I ſhould not ſet by three or four diſhes (in the ſix firſt lines) untouch'd, I ſhould ſurfeit my ſpleen. I could make my ſelf exceeding merry (if ſo ſad a ſubject would bear it) with the Gentlemans <hi>Sword,</hi> and his <hi>Retreat,</hi> and his <hi>Grandees,</hi> and his <hi>Contemptible grave;</hi> but I ſhall ſay no more to it but this, I ſuppoſe the Gentleman (that talks of a Re<g ref="char:EOLhyphen"/>treat) was not of <hi>the Life-guard</hi> in the days of fighting: Thoſe Horſe that were under <hi>his Renowned Excellency,</hi> never knew how to march backward; and truly, me thinks the Gentleman is ſuperlatively low in that expreſſion of his <hi>Contemptible grave;</hi> but he would write higher in the following lines, where he talks
+<pb n="16" facs="tcp:161452:9"/>
+of <hi>Aſtrologers,</hi> and <hi>Aſpects,</hi> and <hi>Horizon,</hi> (in this lofty ex<g ref="char:EOLhyphen"/>preſſion) <hi>Surely he that is no great Aſtrologer, may judge by the Aſpect of the Stars in this Horizon, that this Engliſh ayr agrees beſt with the bodies of Camelions,</hi> &amp;c. Had the learned Author of the Book Entituled, <hi>Pſeudodoxia Epidemica</hi> been conſulted with, he would have perſwaded the Gentleman to have left out his <hi>Camelions</hi> in <hi>Truths Triumph:</hi> I would fain lay aſide this chearful countenance, but that every line (almoſt) in this firſt page, works upon me, as <hi>the Creatures</hi> eating Thiſtles did upon the Phyloſopher: I was even changing my pen, and then in comes <hi>Toties quoties,</hi> line 12. (with the parings of the nails of a ſen<g ref="char:EOLhyphen"/>tence after it) and makes me think, that among the variety of forms that this Gentleman hath appeared in, one was a <hi>Pretend<g ref="char:EOLhyphen"/>ed Clerk</hi> to a Sub-committee of Excize: And now I am reſolved to turn over a new leaf with him, and leave the Ingenious Reader to judge, if I do not ſpare the Gentleman exceedingly in paſſing over his <hi>Innocent Impudence, effronted boldneſs, Cerberus, Peters Chair,</hi> and the reſt of ſuch kinde of Ornaments that follow in this <hi>Truths Triumph.</hi>
+            </p>
+            <p>I ſuppoſe the Gentleman would take it unkindely, if we ſhould not take notice how much (as he ſays) <hi>he is devoted to ſupport the Authority and Honor of the Commons in Parliament;</hi> and this he doth (as his book ſays) <hi>manibus ad ſidera tenſis,</hi> by the lifting up of his hands: thus it hath been accounted <hi>Devotion,</hi> to level ſome Structures and Monuments, which were ſacred in the eyes of our ſuperſtitious fore-fathers: what Devotion he hath to ſome particular Members in that Honorable Houſe, I know not; but other ſome again (I am ſure) have no great reaſon to affect <hi>a devout man for his ſake:</hi> And for my part, I believe his Devotion will ſcarce ſupport the Authority of that Houſe, unleſs he be <hi>Devotum caput Authoritati:</hi> whether the Gentleman be <hi>Devoted to the Authority of Parliament</hi> in that ſence I firſt mention, or no, let theſe two paſſages inform you, <hi>There is an invenomed arrow ſhot by my impriſonment into the heart of the common cauſe of my deareſt Countrey;</hi> who dares think now, that this Gentleman is not <hi>Devoted to ſupport the Au<g ref="char:EOLhyphen"/>thority? &amp;c. And beſide</hi> (as if he had not yet been ſufficiently de<g ref="char:EOLhyphen"/>voted to ſupport the foreſaid Authority) <hi>the nation hath received
+<pb n="17" facs="tcp:161452:9"/>
+no ſuperficial wound by my Arbitrary reſtraint:</hi> I do not think that <hi>Sampſon</hi> evidenced more Devotion to ſupport the houſe in which the Philiſtines were aſſembled, when he laid his two hands upon the two pillars of it in his renewed ſtrength, then this Gentleman hath done in theſe two particulars, <hi>To the Authori<g ref="char:EOLhyphen"/>ty and Honor of the Commons in Parliament.</hi>
+            </p>
+            <p>But upon what account doth the Gentleman thus ſay his De<g ref="char:EOLhyphen"/>votions backward, <hi>to the Authority? &amp;c. Becauſe</hi> (ſaith he) <hi>there was neither Witneſs nor Evidence againſt me of a crime:</hi> It is true, the Witneſſes which I brought along with me (having received Summons from the Honorable Speaker of the Houſe of Commons, in the name of the Houſe, to appear before them, and teſtifie their knowledge of the proceedings at <hi>that meeting in Well-yard</hi>) were not called into the Commons Houſe: and (if a man of ſo low thoughts as I am, may without ſin humbly gueſs at a reaſon of this) I ſuppoſe Leiutenant Colonel <hi>Lilburn</hi> having acknowledged ſome things objected againſt him, and Mr. <hi>Wild<g ref="char:EOLhyphen"/>man</hi> confeſſed ſomething that he denyed) the Honorable Houſe might have Evidence enough of a crime from their own mouthes: but above all, the preſence and deportment, the tremblings and aſtoniſhment (as by the outward appearance one might gueſs) that had taken hold upon Mr. <hi>John Wildman,</hi> when he would have ſpoke at the Commons Bar, might be (I do not ſay was) in<g ref="char:EOLhyphen"/>ſtead of many Witneſſes.</p>
+            <p>You muſt not ſuppoſe that Mr. <hi>John Wildman</hi> delivered all that at the Houſe of Commons Bar, which (as a ſet Speech) fills up the beſt part of ſeven pages in <hi>his Truths triumph:</hi> I know not what he might have penn'd the night before, but if he had that Speech (which we ſpake of) written and premeditated, he might have publiſhed more to the honor of Truth, had he ſet forth to the world,</p>
+            <p>
+               <hi>An impartial diſcovery of a very falſe and treacherous Me<g ref="char:EOLhyphen"/>mory;</hi> I am confident, all the ſence that the Gentleman dropp'd at that time at the Commons Bar (had it been gathered up by a faithful <hi>Amanuenſis</hi>) would not have amounted to a third part of what he delivers in the <hi>Pageant</hi> that was built for <hi>Truths Triumph;</hi> and truly that little which he did ſpeak, was at ſo low a rate (though he had the <hi>Aquavitae</hi> of a clap on the ſhoulder
+<pb n="18" facs="tcp:161452:10"/>
+from Leiutenant Colonel <hi>John Lilburn,</hi> as he was entring into the Commons Houſe, with <hi>Speak up Jack,</hi> ſuch ſtumbling, inter<g ref="char:EOLhyphen"/>feering and down-right halting, that (I believe) it was not a ſilent Witneſs of ſomething; and thus I (conceive) there might be no need of calling for Witneſſes againſt him, whoſe words ſpake him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſelf-condemned</hi>) all along.</p>
+            <p>But why doth the Gentleman ſeem to take it ſo unkindely, that the <hi>Witneſſes</hi> were not called in? is it becauſe one or both of them had whiſpered in the ear of ſome of <hi>that Fraternity,</hi> that he or they would not ſtand by the <hi>Information</hi> given in by Mr. <hi>Maſterſon,</hi> and thereby leave it under the condemnation as <hi>Falſe</hi> and <hi>Treacherous.</hi> That paſſage of his in the heel of the ninth and head of the tenth page of his <hi>pretended Triumph,</hi> would richly furniſh a man that ſuſpected the lightneſs of his Witneſſes with jealous thoughts: the words that would tempt to jealouſie run thus, <hi>As for the Witneſſes, none were called or examined (let the Diurnal man, as he calls him,</hi> look to the parentheſis) <hi>yet thoſe two perſons, whom the Informer brought as pretended Wit<g ref="char:EOLhyphen"/>neſſes, confeſſed, as I can prove by Oath, That there was no<g ref="char:EOLhyphen"/>thing ſpoken at the Meeting for which I am accuſed, but what tended to advance the Parliaments Honor, or words to that effect.</hi>
+            </p>
+            <p>To this particular (which if it were of kinde to <hi>Truth,</hi> might entitle his Pamphlet a <hi>Triumph</hi>) I have many things to ſay:</p>
+            <p n="1">1. Did the two perſons whom the Informer brought as pre<g ref="char:EOLhyphen"/>tended Witneſſes, confeſs this? and will the proof (you wot of) be depoſed for both? certainly, <hi>aut erravit Famulus, aut ipſe lapſus es memoriâ.</hi>
+            </p>
+            <q>
+               <l>A bad Informer, or worſe Memory,</l>
+               <l>Brought forth in great <hi>Truths Triumph</hi> this great —</l>
+            </q>
+            <p>Where the fault lieth, I know not certainly, but I ſhall for this once ſet it upon the <hi>Taylors</hi> ſcore, and ſuppoſe that he who ſtitched up this garment for <hi>Truth to Triumph</hi> in, was exceed<g ref="char:EOLhyphen"/>ingly miſtaken in his meaſure.</p>
+            <p>But ſecondly, have you never heard of ſuch a practice as this in the world, when ſome ſons of their Father the Devil have in vain attempted the chaſtity of ſuch a Matron or ſuch a Virgin, their foul mouthes have run over in ſuch expreſſions as might make others defile the <hi>innocent ones</hi> in their thoughts? The cha<g ref="char:EOLhyphen"/>ſtity
+<pb n="19" facs="tcp:161452:10"/>
+(in this particular) of one of my Witneſſes, is true Roman, it would much rather dye upon your ſword, then proſtitute it ſelf to ſuch a diſhonorable act as you ſpeak of; his faithfulneſs is ſo mighty, that I believe the man is not yet born,<note place="margin">Caſta eſt quam nemo rogavit.</note> that ever durſt tamper with him about it; and for the other, I have had high thoughts of him, and ſhould be now ſorry indeed, if a principle of Religion ſhould not carry him as far, as a lower principle of honor may carry another man: Why then do you let fall ſuch words from your pen? which if true, would render theſe two perſons to all ages unworthy of the lovely compellations of Re<g ref="char:EOLhyphen"/>ligious or faithful.</p>
+            <p>And Thirdly, what if I ſhall make it appear now, that one of theſe two perſons (and the other though he have ſcarce ſtrength enough to ſtand without trembling under the frowns of a party that he affects ſo well, yet dares not for his life, if call'd before Authority, deny what he hath affirmed in the preſence of four or five witneſſes) was never guilty of ſpeaking one ſuch word, <hi>or the leaſt ſyllable to that effect,</hi> as both ſtand accuſed of? will it not <hi>Stain</hi> Truths Triumph? will it not be like the <hi>Crot de paris?</hi> an indelible ſpot upon the garments of her that <hi>Pretends</hi> to Tri<g ref="char:EOLhyphen"/>umph? This Teſtimony under the hand of Captain <hi>John Williſon,</hi> will be accounted little leſs then a Scar in the face of her that perſonates <hi>Truth,</hi> in the paper Triumph.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>Whereas a TAME Pamphlet (lately ſet forth by one <hi>John Wildman</hi>) Entituled, <hi>Truths Triumph,</hi> hath endeavored to inſult over my innocency and honeſty, in the laſt line of the ninth, and firſt of the tenth Pages) in theſe words, Yet theſe two perſons whom the Informer brought, as Pretended Witneſſes, confeſſed, as I can prove by Oath, that there was nothing ſpoken at the meeting, for which I am accuſed, but what tended to advance the Parlia<g ref="char:EOLhyphen"/>ments Honor, or words to that effect. I affirm and publiſh to the whole World (and as a Chriſtian will make it good upon my Oath) that I never ſpake one ſuch word, or any thing to that effect, and (in the mean time) this my hand ſhall make good.</p>
+                        <closer>
+                           <signed>JOHN WILLISON.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="20" facs="tcp:161452:11"/>I am loath to inſult over <hi>the contemptible Triumph;</hi> yet I dare not be wanting to my ſelf ſo far, as not thankfully to acknow<g ref="char:EOLhyphen"/>ledge the goodneſs of Heaven in bringing to my hand an Ori<g ref="char:EOLhyphen"/>ginal Letter (which if a Witneſs had fail'd, would have riſen up and born witneſs to ſome particulars in the Relation which you have already read) which when the underſtanding unprejudiced Reader hath obſerved, if he ſhall then (with Maſter <hi>Wildman</hi>) call the diſcovery (which I made to the Lords and Commons at their ſeveral Bars, and at a Conference of both Houſes) <hi>A falſe and treacherous Information of,</hi> &amp;c. I will ſilently take up my Croſs.</p>
+            <q>Et meâ me virtute incolumem involvam.</q>
+            <p>The critical Letter (I ſpake of) was (in the Original) deli<g ref="char:EOLhyphen"/>vered by me to the Honorable Committee of Lords and Com<g ref="char:EOLhyphen"/>mons at <hi>Derby</hi> Houſe; this Tranſcript (with which you are pre<g ref="char:EOLhyphen"/>ſented) I received back again from the hands of my honored Friend Maſter <hi>Walter Froſt,</hi> Secretary to that Committee, and it agrees ſo (to a letter) with the Original, that the Reader muſt be intreated to bear with the broken Engliſh of it.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Worthy Gentlemen and dear Friends,</salute>
+                  </opener>
+                  <p>OUr bowels are troubled, and our hearts pant within us, to behold the Divi<g ref="char:EOLhyphen"/>ſions, Diſtractions, Heart-burning and Con<g ref="char:EOLhyphen"/>tentions which abound in this diſtreſſed Na<g ref="char:EOLhyphen"/>tion; and we are confounded in our ſelves upon the foreſight of the Confuſion and Deſolation, which will be the certain conſe<g ref="char:EOLhyphen"/>quence of ſuch Diviſions, if they ſhould be but for a little time longer continued: There are now clouds of Blood over our heads a<g ref="char:EOLhyphen"/>gain; and the very rumors and fears of War
+<pb n="21" facs="tcp:161452:11"/>
+hath ſo waſted Trading, and exhauſted the price of all food and clothing, that Famine is even entring into our Gates; and doubtleſs neither Pen nor Tongue can expreſs the Mi<g ref="char:EOLhyphen"/>ſery which will enſue immediately upon the beginning of another War: Why therefore, O our Countreymen, ſhould we not every man ſay each to other as <hi>Abraham</hi> to <hi>Lot,</hi> or <hi>Moſes</hi> to the two <hi>Iſraelites, Why ſhould we con<g ref="char:EOLhyphen"/>tend each with other, ſeeing we are brethren?</hi> O that our Advice might be acceptable to you, that you would every man expoſtulate each with other, and now, while you have an oppor<g ref="char:EOLhyphen"/>tunity, conſider together, Wherefore the Contention have been theſe Six or Seven years? hath it not been for Freedom, and Juſtice? O then propound each to other the chief Principles of your Freedoms, and the foundation of Juſtice and Common Right; and queſtionleſs when you ſhall under<g ref="char:EOLhyphen"/>ſtand the Deſires each of other, you will unite together inviolably to purſue them.</p>
+                  <p>Now truly, in our apprehenſions, this work is prepared to your hands in the Pe<g ref="char:EOLhyphen"/>tition, which we herewith ſend to you: Certainly, if you ſhall all joyn together to
+<pb n="22" facs="tcp:161452:12"/>
+follow reſolutely and unweariedly after the things contained in that Petition, the Blood and Confuſion which now threaten us may be prevented, and the ſweet ſtreams of Ju<g ref="char:EOLhyphen"/>ſtice will run into your Boſoms freely with<g ref="char:EOLhyphen"/>out obſtructions: O that the Lord may be ſo propitious to this tottering Nation, as to give you to underſtand theſe things which belong to your Peace and Welfare.</p>
+                  <p>
+                     <hi>Many honeſt people are reſolved al<g ref="char:EOLhyphen"/>ready to unite together in that Petition, and to proſecute the obtaining it with all their ſtrength; they are determined, that now after ſeven years waiting for Ju<g ref="char:EOLhyphen"/>ſtice, Peace and Freedom, they will re<g ref="char:EOLhyphen"/>ceive no Denyal in theſe requeſts, which are ſo eſſential to their Peace and Free<g ref="char:EOLhyphen"/>dom.</hi>
+                  </p>
+                  <p>And for the more effectual proceedings in this Buſineſs, there is a method and order ſetled in all the Wards in <hi>London,</hi> and the out-Pariſhes and Suburbs, they have appointed ſeveral active men in every Ward and Divi<g ref="char:EOLhyphen"/>ſion, to be a Committee to take the ſpecial
+<pb n="23" facs="tcp:161452:12"/>
+care of the Buſineſs, and to appoint active men in every Pariſh, to read the Petition at ſet Meetings for that purpoſe, and to take Sub<g ref="char:EOLhyphen"/>ſcriptions, and to move as many as can poſ<g ref="char:EOLhyphen"/>ſibly to go in perſon, when the day of deli<g ref="char:EOLhyphen"/>vering it ſhall be appointed; and they intend to give notice of that time to all the adjacent Counties, that as many of them as poſsibly can, may alſo joyn with them the ſame day; and the like orderly way of proceeding is commended to ſeveral Counties to whom the Petition is ſent, as <hi>Hartfordſhire, Bucking<g ref="char:EOLhyphen"/>ham, Oxford, Rutlandſhire,</hi> &amp;c. And we cannot but propound to you the ſame method, as the beſt expedient for your Union in pur<g ref="char:EOLhyphen"/>ſuing after a ſpeedy Settlement of your Peace and Freedom: Therefore in brief we deſire,</p>
+                  <p n="1">1. That you would appoint Meetings in every Diviſion of your County, and there to ſelect faithful men of Publique Spirits, to take care that the Petition be ſent to the Hands of the moſt active men in every Town, to unite the Town in thoſe Deſires of Common Right, and to take their Sub<g ref="char:EOLhyphen"/>ſcriptions.</p>
+                  <p n="2">
+                     <pb n="24" facs="tcp:161452:13"/>II. That you would appoint as many as can with convenience, to meet at <hi>Dartford</hi> the the 23. of this preſent January, being Lords-day, and we ſhall confer with you about the matters that concern your Peace, and Common good and Freedom.</p>
+                  <p>We ſhall at preſent adde more but this, That to ſerve you and our whole Countrey in whatſoever concerns its Common Peace and Welfare, is and always ſhall be the de<g ref="char:EOLhyphen"/>ſire and joy of</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dertford</hi> 
+                        <date>this 9. Jan. 1647.</date>
+                     </dateline>
+                     <signed>Your moſt faithful Friends and Servants, which came from <hi>London</hi> from many other Friends upon this Service,
+<list>
+                           <item>
+                              <hi>John Lilburn.</hi>
+                           </item>
+                           <item>
+                              <hi>John Davis.</hi>
+                           </item>
+                           <item>
+                              <hi>J. Wildman.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Woodward.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <trailer>For all the peaceable and well-minded people in <hi>Kent,</hi> who deſire preſent Peace, Freedom, Iuſtice, and Com<g ref="char:EOLhyphen"/>mon Right and Good of all men.</trailer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="25" facs="tcp:161452:13"/>A Man would think now (at the firſt bluſh) that this were as innocent a <hi>Letter</hi> as any in the Alphabet; he that looks upon the ſmooth gums, would ſcarce expect to finde <hi>the Vipers teeth there. Our bowels are troubled, and our hearts pant within us,</hi> &amp;c. It mindes me of the Emblem in the Abbey of <hi>Fulda,</hi> a beaſt of prey in a ſpecious appearance, courting a flock of ſheep with theſe words iſſuing (in a pendant) out of his mouth, <hi>God is my witneſs how I long for you all in my bowels.</hi> The <hi>Deſign</hi> in this Letter wears a very long robe, it is clothed with fair pretences down to the heels of it; and yet ſee if you do not perceive the <hi>Claws</hi> in this expreſſion, <hi>Many honeſt people are reſolved alrea<g ref="char:EOLhyphen"/>dy to unite together in that Petition, and to proſecute the obtain<g ref="char:EOLhyphen"/>ing it with all their ſtrength; they are determined that now, after ſeven years waiting for Juſtice, Peace and Freedom, they will re<g ref="char:EOLhyphen"/>ceive no denial in their requests:</hi> The <hi>Letter</hi> I acknowledge hath a fair appearance of an Angel of light; but me thinks that ex<g ref="char:EOLhyphen"/>preſſion is ſomewhat rank of <hi>Brimston.</hi> What? no denial, though all the Authority joyn'd with all the Repreſentative reaſon of the Kingdom ſhould Vote againſt your Petition? will you yet proſe<g ref="char:EOLhyphen"/>cute it with all your ſtrength, though the ſtrength of Reaſon and Authority engage againſt you? Is the deſign (that you have carried in your thigh theſe ſeven years) ſo ripe for the birth, that you can<g ref="char:EOLhyphen"/>not wait one day longer for the Midewifery of Authority to bring it forth? you know the Proverb, <hi>festinans canis</hi> your great haſte is like to bring forth but blinde whelps.</p>
+            <p>I ſhall ſay no more of the <hi>Letter</hi> now, but this, That (if report have not abuſed us, in that we have heard of a Tartarian plant (<hi>Boroneth</hi> by name) that it growing up in the likeneſs of a lamb, inſenſibly devours all the graſs that is round about it) This <hi>Letter</hi> is <hi>Boroneth,</hi> and that but a <hi>Ciens</hi> of that fruitful ſtock, the <hi>Large Petition.</hi>
+            </p>
+            <p>And now I ſhall ask but this one thing of the Ingenuous Rea<g ref="char:EOLhyphen"/>der, That he would compare the Diſcovery made by me, with Mr. <hi>Wildmans</hi> Defence, and take this particular along with him in his underſtanding, That the moſt material paſſage in my Diſ<g ref="char:EOLhyphen"/>covery, namely, that Anſwer to the Objection of <hi>cutting of throats,</hi> made by a plain man in the company, was affirmed by <hi>Robert Malbon</hi> (who was preſent at the Meeting) to have been
+<pb n="26" facs="tcp:161452:14"/>
+framed by Lieutenant Colonel <hi>John Lilburn</hi> in theſe words, <hi>This Petition in your hand, will be as good as a blue Ribband in your Hat, to preſerve your throat from cutting.</hi> This the ſaid <hi>Robert Malbon</hi> affirmed on Wedneſday the Nineteenth of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> in the preſence of Mr. <hi>Nicholas Skinner</hi> Merchant, Ca<g ref="char:EOLhyphen"/>ptain <hi>John Williſon, Gabriel Gayler,</hi> and <hi>George Cotterel.</hi>
+            </p>
+            <p>And thus being extremely weary of following a <hi>Pretended Triumph</hi> thus far, I ſhall ſuffer it quietly to paſs through the <hi>Inns of Court;</hi> the <hi>Pretended Minister of Christ at Shoreditch</hi> dares not pretend to ſo much Law (and beſides, he hath another gueſt, <hi>Magna Charta,</hi> to employ himſelf in) as will ſerve him to judge, whether the Gentlemans <hi>Truth</hi> triumph in his Law Caſes at any higher rate then ſhe doth in his <hi>Treachery Ana<g ref="char:EOLhyphen"/>tomized.</hi> Onely I could wiſh that Mr. <hi>John Wildman,</hi> after ſo long and ſad an abſenting of himſelf from a people (with whom he hath walked comfortably in <hi>Evangelical Diſpenſations</hi>) even to <hi>the total neglect of them</hi> (as himſelf tells us) would at laſt ſeriouſly bethink himſelf, if he might not have reaped more <hi>ſweet communion with the Father,</hi> in the ways of Fel<g ref="char:EOLhyphen"/>lowſhip with his Saints, then by yielding his members, the members of ſuch a Generation of men, and ſacrificing his parts to a Deſign that can neither dwell together with the Authority of the State, nor power of godlineſs in the ſame Kingdom.</p>
+            <p>And, O that (while <hi>The Cry of the People</hi> is ſcattered up and down (the City and Kingdom) <hi>in his language</hi>) the great God would give him an ear to hear (as he hath afforded him ability to ſupply) the Cryes of ſo many thouſand poor ſouls that are ready to periſh for want of Goſpel-bread. Let me beſeech you, Sir, (in the ſpirit of meekneſs and love) to improve your ut<g ref="char:EOLhyphen"/>moſt skill in making out an <hi>Impartial Diſcovery of the come<g ref="char:EOLhyphen"/>lineſs and ſufficiency of our Lord Jeſus</hi> to the ſouls of poor creatures.</p>
+            <p>Thus you ſhall be reckoned among the ſons of Wiſdom, one that hath loved fair Truth, and prepared her a Chariot to ride <hi>triumphantly</hi> in the hearts of men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:161452:14"/>
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Febr. 9. 1647.</date>
+               </dateline>
+               <signed>G. MABBOT.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
